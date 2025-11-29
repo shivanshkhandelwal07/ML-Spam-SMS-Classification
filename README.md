@@ -8,7 +8,7 @@
 |-|-|-|-|-|
 |`NLP`|Text|`Naive Bayesian`, `SVM`, `Random Forest Classifier`, `Deep Learning - LSTM`, `Word2Vec`|`Sklearn`, `Keras`, `Gensim`, `Pandas`, `Seaborn`|https://github.com/erdiolmezogullari/ml-spam-sms-classification|
 
-If you want to see the further ML projects, you may visit my main repo: 
+If you want to see the further ML projects, you may visit my main repo: https://github.com/shivanshkhandelwal07
 
 
 In this project, We applied supervised learning (classification) algorithms and deep learning (LSTM).
